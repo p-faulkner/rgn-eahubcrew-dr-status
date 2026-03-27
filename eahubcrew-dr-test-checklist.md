@@ -25,20 +25,20 @@ __Date__: 3/31/2026
 | Pipeline | 7 | 7 | ✅ |
 | Dynatrace | 7 | 7 | ✅ |
 | Repository | 7 | 7 | ✅ |
-| Splunk | 0 | 7 | 🟡 |
-| **Overall** | **21** | **28** | **🟡** |
+| Splunk | 7 | 7 | ✅ |
+| **Overall** | **28** | **28** | **✅** |
 
 ## Dashboard
 
 | Application | Pipeline | Dynatrace | Repository | Splunk | DR Ready? |
 |-------------|----------|-----------|------------|--------|-----------|
-| Crew Hub to Rainmaker | ✅ | ✅ | ✅ | 🟡 | ✅ |
-| Employee Central to Rainmaker | ✅ | ✅ | ✅ | 🟡 | ✅ |
-| Rainmaker Reconciliation | ✅ | ✅ | ✅ | 🟡 | ✅ |
-| Eagle Hub to MINT (ENY) | ✅ | ✅ | ✅ | 🟡 | ✅ |
-| Eagle Hub to MINT (PDT) | ✅ | ✅ | ✅ | 🟡 | ✅ |
-| Eagle Hub to MINT (PSA) | ✅ | ✅ | ✅ | 🟡 | ✅ |
-| LMS to MINT | ✅ | ✅ | ✅ | 🟡 | ✅ |
+| Crew Hub to Rainmaker | ✅ | ✅ | ✅ | ✅ | ✅ |
+| Employee Central to Rainmaker | ✅ | ✅ | ✅ | ✅ | ✅ |
+| Rainmaker Reconciliation | ✅ | ✅ | ✅ | ✅ | ✅ |
+| Eagle Hub to MINT (ENY) | ✅ | ✅ | ✅ | ✅ | ✅ |
+| Eagle Hub to MINT (PDT) | ✅ | ✅ | ✅ | ✅ | ✅ |
+| Eagle Hub to MINT (PSA) | ✅ | ✅ | ✅ | ✅ | ✅ |
+| LMS to MINT | ✅ | ✅ | ✅ | ✅ | ✅ |
 
 ## Applications
 
@@ -58,11 +58,9 @@ __Date__: 3/31/2026
 
 |Pipeline Ready?|Dynatrace Ready?|Repository Ready?|Splunk Ready?|
 |----|----|----|----|
-|✅|✅|✅|🟡|
+|✅|✅|✅|✅|
 
 **Remarks:**
-
-Splunk alerts requested from Eagle Watch team
 
 ---
 
@@ -82,11 +80,9 @@ Splunk alerts requested from Eagle Watch team
 
 |Pipeline Ready?|Dynatrace Ready?|Repository Ready?|Splunk Ready?|
 |----|----|----|----|
-|✅|✅|✅|🟡|
+|✅|✅|✅|✅|
 
 **Remarks:**
-
-Splunk alerts requested from Eagle Watch team
 
 ---
 
@@ -106,11 +102,9 @@ Splunk alerts requested from Eagle Watch team
 
 |Pipeline Ready?|Dynatrace Ready?|Repository Ready?|Splunk Ready?|
 |----|----|----|----|
-|✅|✅|✅|🟡|
+|✅|✅|✅|✅|
 
 **Remarks:**
-
-Splunk alerts requested from Eagle Watch team
 
 ---
 
@@ -130,11 +124,9 @@ Splunk alerts requested from Eagle Watch team
 
 |Pipeline Ready?|Dynatrace Ready?|Repository Ready?|Splunk Ready?|
 |----|----|----|----|
-|✅|✅|✅|🟡|
+|✅|✅|✅|✅|
 
 **Remarks:**
-
-Splunk alerts requested from Eagle Watch team
 
 ---
 
@@ -154,11 +146,9 @@ Splunk alerts requested from Eagle Watch team
 
 |Pipeline Ready?|Dynatrace Ready?|Repository Ready?|Splunk Ready?|
 |----|----|----|----|
-|✅|✅|✅|🟡|
+|✅|✅|✅|✅|
 
 **Remarks:**
-
-Splunk alerts requested from Eagle Watch team
 
 ---
 
@@ -178,11 +168,9 @@ Splunk alerts requested from Eagle Watch team
 
 |Pipeline Ready?|Dynatrace Ready?|Repository Ready?|Splunk Ready?|
 |----|----|----|----|
-|✅|✅|✅|🟡|
+|✅|✅|✅|✅|
 
 **Remarks:**
-
-Splunk alerts requested from Eagle Watch team
 
 ---
 
@@ -202,11 +190,9 @@ Splunk alerts requested from Eagle Watch team
 
 |Pipeline Ready?|Dynatrace Ready?|Repository Ready?|Splunk Ready?|
 |----|----|----|----|
-|✅|✅|✅|🟡|
+|✅|✅|✅|✅|
 
 **Remarks:**
-
-Splunk alerts requested from Eagle Watch team
 
 Identify/create DR EMFT job.
 
